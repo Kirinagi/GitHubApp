@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GitHubAppWithAPI</string>
+    <string name="avatar_desc">user avatar image</string>
+    <string name="search">Search</string>
+    <string name="search_button">search button</string>
+    <string name="tab_following">Following</string>
+    <string name="tab_follower">Follower</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="menu_1">Dark Mode</string>
+    <string name="favorite">Favorite</string>
+    <string name="dark_indicator">dark indicator</string>
+    <string name="light_indicator">light indicator</string>
+</resources>
